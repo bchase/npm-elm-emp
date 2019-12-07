@@ -1,0 +1,18 @@
+{
+  "name": "elm-emp",
+  "version": "0.1.0",
+  "description": "Elm Metaprogramming",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bchase/npm-elm-emp.git"
+  },
+  "author": "Brad Chase",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bchase/npm-elm-emp/issues"
+  },
+  "homepage": "https://github.com/bchase/npm-elm-emp#readme",
+  "bin": {
+    "elm-emp": "bin/elm-emp"
+  }
+}
